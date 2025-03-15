@@ -28,6 +28,6 @@ Start the Flask server with:
 python ask-sros.py
 ```
 
-# Demo
+## Demo
 
 ![asksros-demo](https://github.com/user-attachments/assets/7fcef869-c18f-4e00-a0f6-1dee06c7da03)
